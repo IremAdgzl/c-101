@@ -1,0 +1,10 @@
+bool condition = true;
+
+if (condition)
+{
+    Console.WriteLine("Değişken: true");
+}
+else
+{
+    Console.WriteLine("Değişken: false");
+}
