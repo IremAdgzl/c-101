@@ -1,0 +1,14 @@
+/Users/iremadiguzel/Desktop/pratikler/donguler/bin/Debug/net8.0/donguler
+/Users/iremadiguzel/Desktop/pratikler/donguler/bin/Debug/net8.0/donguler.deps.json
+/Users/iremadiguzel/Desktop/pratikler/donguler/bin/Debug/net8.0/donguler.runtimeconfig.json
+/Users/iremadiguzel/Desktop/pratikler/donguler/bin/Debug/net8.0/donguler.dll
+/Users/iremadiguzel/Desktop/pratikler/donguler/bin/Debug/net8.0/donguler.pdb
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/donguler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/donguler.AssemblyInfoInputs.cache
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/donguler.AssemblyInfo.cs
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/donguler.csproj.CoreCompileInputs.cache
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/donguler.dll
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/refint/donguler.dll
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/donguler.pdb
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/donguler.genruntimeconfig.cache
+/Users/iremadiguzel/Desktop/pratikler/donguler/obj/Debug/net8.0/ref/donguler.dll
