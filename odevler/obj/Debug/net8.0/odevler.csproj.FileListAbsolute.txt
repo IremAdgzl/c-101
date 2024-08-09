@@ -1,0 +1,14 @@
+/Users/iremadiguzel/Desktop/pratikler/odevler/bin/Debug/net8.0/odevler
+/Users/iremadiguzel/Desktop/pratikler/odevler/bin/Debug/net8.0/odevler.deps.json
+/Users/iremadiguzel/Desktop/pratikler/odevler/bin/Debug/net8.0/odevler.runtimeconfig.json
+/Users/iremadiguzel/Desktop/pratikler/odevler/bin/Debug/net8.0/odevler.dll
+/Users/iremadiguzel/Desktop/pratikler/odevler/bin/Debug/net8.0/odevler.pdb
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/odevler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/odevler.AssemblyInfoInputs.cache
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/odevler.AssemblyInfo.cs
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/odevler.csproj.CoreCompileInputs.cache
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/odevler.dll
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/refint/odevler.dll
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/odevler.pdb
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/odevler.genruntimeconfig.cache
+/Users/iremadiguzel/Desktop/pratikler/odevler/obj/Debug/net8.0/ref/odevler.dll
